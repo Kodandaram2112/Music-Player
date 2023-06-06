@@ -8,7 +8,7 @@ canvas = tk.Tk()
 canvas.title("Music Player")
 canvas.geometry("400x500")
 canvas.config(bg = "black")
-rootpath = "C:\\Users\mkoda\OneDrive\Desktop\Songs"
+rootpath = "C:\\Users\mkoda\PycharmProjects\MusicPlayer\Songs"
 pattern = "*.mp3"
 
 mixer.init()
